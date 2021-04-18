@@ -15,3 +15,5 @@ In this project, you will following the below steps:
 - Create and publish a pipeline
 - Documentation
 
+![Design Architecture](images/architecture.png)
+

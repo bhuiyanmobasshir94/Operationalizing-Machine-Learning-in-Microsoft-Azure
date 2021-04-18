@@ -38,6 +38,17 @@ What I am doing here is
 - Creating a new compute cluster with VM STANDARD_DS12_V2 and minimum number of nodes 1
 - Running the experiment with classification where Explain Best Model is enabled, Exit Criterion is default to 1 and Concurrency default to 5.
 
+![Bank Marketing Dataset](images/bank-marketing-dataset.PNG)
+![AutoML Dataset Steps](images/automl-dataset-step.PNG)
+![Cluster](images/cluster.PNG)
+![Exit Criterion](images/exit-criterion.PNG)
+![Concurrency](images/concurrency.PNG)
+![Classification](images/classification.PNG)
+![Completed experiment](images/experiment-completed.PNG)
+![Best Model List](images/best-model-list.PNG)
+![Best Model](images/best-model.PNG)
+![Metrics](images/metrics.PNG)
+
 ## Deploy the best model
 
 After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. The Best Model will be shown in the Details tab. In the Models tab, it will come up first (at the top). I am going to select the best model for deployment.

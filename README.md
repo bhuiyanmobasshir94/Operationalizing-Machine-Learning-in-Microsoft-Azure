@@ -3,9 +3,9 @@
 
 In this project,I will continue to work with the `Bank Marketing dataset`. I will use Azure to configure a cloud-based machine learning production model, deploy it, and consume it. I will also create, publish, and consume a pipeline.
 
-## Project main steps
+## Project Main Steps
 
-In this project, you will following the below steps:
+In this project, I will be following the below steps:
 - Authentication
 - Automated ML Experiment
 - Deploy the best model
@@ -15,5 +15,16 @@ In this project, you will following the below steps:
 - Create and publish a pipeline
 - Documentation
 
-![Design Architecture](images/architecture.png)
+## Architecture Design 
+![Architecture Design](images/architecture.png)
+
+## Steps
+
+### Authentication
+
+As I am using the lab, Udacity provided to me, I am not authorized to create a security principal and so I skipped this step.
+
+### Automated ML Experiment 
+
+
 

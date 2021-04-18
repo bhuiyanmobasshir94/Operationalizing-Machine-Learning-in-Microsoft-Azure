@@ -24,7 +24,15 @@ In this project, I will be following the below steps:
 
 As I am using the lab, Udacity provided to me, I am not authorized to create a security principal and so I skipped this step.
 
-### Automated ML Experiment 
+### Automated ML Experiment
+
+In this step, I will create an experiment using Automated ML, configure a compute cluster, and use that cluster to run the experiment. 
+
+What I am doing here is
+
+- Creating an automl run with registered `Bank Marketing` dataset
+- Creating a new compute cluster with VM STANDARD_DS12_V2 and minimum number of nodes 1
+- Running the experiment with classification where Explain Best Model is enabled, Exit Criterion is default to 1 and Concurrency default to 5.
 
 
 
